@@ -5,7 +5,6 @@ solutions end-to-end: from understanding the business need to deploying
 the final model. Experienced in deep learning, LLM-based AI agents,
 and Arabic NLP.
 
-Currently: Data Analyst @ CCE | SDAIA Applied AI Bootcamp Graduate
 
 ## Technical Skills
 - **Machine Learning & AI:** PyTorch, Scikit-learn, Deep Learning, LLM Agents, Arabic NLP
