@@ -1,4 +1,4 @@
-# Hi, I'm Renad Alharbi
+# Hi, I'm Eng. Renad Alharbi
 
 **AI Engineer & Data Analyst** — I build machine learning and AI
 solutions end-to-end: from understanding the business need to deploying
